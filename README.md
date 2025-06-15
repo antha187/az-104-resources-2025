@@ -1,6 +1,7 @@
 # az-104-resources-2025
 How I passed my AZ-104 exam in 2025
-Just passed the AZ-104 (Microsoft Azure Administrator) exam and wanted to share my prep experience!
+
+Just passed the AZ-104 (Microsoft Azure Administrator) exam with a score of 935 and wanted to share my prep experience!
 
 The exam focuses a lot on managing Azure resources, configuring storage, networking, monitoring, and handling identity and governance. It’s hands-on and definitely tests your real-world admin skills.
 
